@@ -2,3 +2,6 @@ Welcome to the satosa magic world
 
 Coding secret
 Coding style
+
+
+final copy
